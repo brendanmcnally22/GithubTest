@@ -7,7 +7,7 @@ public class GithubScript : MonoBehaviour
     {
         
     }
-    //Hello
+    //Hello, I will rebase this branch in the next commit
     //Going to see if updates in Unity will update here aswelll
 
     // Update is called once per frame
