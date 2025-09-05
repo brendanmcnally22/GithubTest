@@ -8,7 +8,7 @@ public class GithubScript : MonoBehaviour
         
     }
     //Hello
-    //Going to see if updates in Unity will update here aswelll
+    //Going to see if rebase works how I think it does
 
     // Update is called once per frame
     void Update()
